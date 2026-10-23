@@ -1,0 +1,6 @@
+{
+  "name": "Kanisani",
+  "description": "African-first church management, giving, worship and community operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
